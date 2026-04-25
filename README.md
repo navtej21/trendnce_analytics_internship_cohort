@@ -187,4 +187,3 @@ Significant sparsity (~60%) is achieved with <b>minimal loss in accuracy</b>, ma
 
 <hr/>
 
-<p>⭐ If you found this useful, consider starring the repository!</p>
